@@ -55,21 +55,40 @@ sidebar:
 
 # Publications
 
+## 2021
+
+<u><strong>Lürig, M.D.</strong></u>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., and Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology 102(7), e03371. [DOI](https://doi.org/10.1002/ecy.3371){:target="_blank"}
+
+<u><strong>Lürig, M.D.</strong></u>, Donoughe, S., Svensson, E.I., Porto, A., and Tsuboi, M. (2021). Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology. Frontiers in Ecology and Evolution 9:642774. [DOI](https://doi.org/10.3389/fevo.2021.642774){:target="_blank"}
+
+<u><strong>Lürig, M.D.</strong></u>, and Matthews, B. (2021). Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore. Proceedings of the Royal Society B: Biological Sciences 288: 20203136. [DOI](https://doi.org/10.1098/rspb.2020.3136){:target="_blank"}
+
 ## 2020
 
-Russo, S., <u><strong>M. D. Lürig</strong></u>,  W. Hao, B. Matthews, and K. Villez. 2020. Active learning for anomaly detection in environmental data. Environmental Modelling & Software 134:104869. [DOI](http://dx.doi.org/10.1016/j.envsoft.2020.104869){:target="_blank"}
+<u><strong>Lürig, M.D.</strong></u>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshw. Biol. 66(3), 104869, [DOI](https://doi.org/10.1111/fwb.13648){:target="_blank"}
 
-Leal, M. C., J. M. Anaya-Rojas, M. H. G. Munro, J. W. Blunt, C. J. Melian, R. Calado, <u><strong>M. D. Lürig</strong></u>. 2020. Fifty years of capacity building in the search for new marine natural products. Proceedings of the National Academy of Sciences 117(39):24165-24172 [DOI](http://dx.doi.org/10.1073/pnas.2007610117){:target="_blank"}
+<u><strong>Lürig, M.D.</strong></u>, Hao, W., Matthews, B., and Villez, K. (2020). Active learning for anomaly detection in environmental data. Environmental Modelling \& Software 134, 104869. [DOI](https://doi.org/10.1016/j.envsoft.2020.104869){:target="_blank"}
+
+Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado, R., \textbf{Lürig, M. D.} (2020). Fifty years of capacity building in the search for new marine natural products. Proceedings of the National Academy of Sciences 17(39), 24165-24172.[DOI](https://doi.org/10.1073/pnas.2007610117){:target="_blank"}
 
 ## 2019
 
-<u><strong>M. D. Lürig</strong></u>, Best, R.J., Svitok, M., Jokela, J., Matthews, B. 2019. The role of plasticity in the evolution of cryptic pigmentation in a freshwater isopod. Journal of Animal Ecology 88:612–623 [DOI](https://doi.org/10.1111/1365-2656.12950){:target="_blank"}
+<u><strong>Lürig, M.D.</strong></u>, Best, R.J., Svitok, M., Jokela, J., Matthews, B. (2019). The role of plasticity in the evolution of cryptic pigmentation in a freshwater isopod. Journal of Animal Ecology 88(4), 612–623. [DOI](https://doi.org/10.1111/1365-2656.12950){:target="_blank"}
+
+## 2016
+
+<u><strong>Lürig, M.D.</strong></u>, Best, R.J., Stachowicz, J.J. (2016). Microhabitat partitioning in seagrass mesograzers is driven by consistent species choices across multiple predator and competitor contexts. Oikos 125, 1324-1333. [DOI](https://doi.org/10.1111/oik.02932){:target="_blank"}
 
 ## 2015
 
-<u><strong>M. D. Lürig</strong></u>, Best, R.J., Stachowicz, J.J. 2015. Microhabitat partitioning in seagrass mesograzers is driven by consistent species choices across multiple predator and competitor contexts. Oikos 125:1324-1333. [DOI](https://doi.org/10.1111/oik.02932){:target="_blank"}
+<u><strong>Lürig, M.D.</strong></u>, Kunzmann A. 2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of \textit{Stylophora pistillata}. Journal of Sea Research 99, 26–33. [DOI](https://doi.org/10.1016/j.seares.2015.01.005){:target="_blank"}
 
-<u><strong>M. D. Lürig</strong></u>, Kunzmann A. 2015. Effects of short term aragonite undersaturation and elevated temperature on the physiology of Stylophora pistillata. Journal of Sea Research 99:26–33. [DOI](https://doi.org/10.1016/j.seares.2015.01.005){:target="_blank"}
+
+
+
+
+
+
 
 
 
