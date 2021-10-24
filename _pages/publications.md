@@ -56,6 +56,15 @@ sidebar:
 # Publications
 
 ## 2021
+<u><strong>Lürig, M.D.</strong></u> (2021). phenopype: a phenotyping pipeline for Python. Methods in Ecology and Evolution. <i>In press</i>.
+
+Best, R.J. and <u><strong>Lürig, M.D.</strong></u>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. <i>In press</i>. Oxford University Press.
+
+Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod \textit{Asellus aquaticus} as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>.
+		
+Russo, S., Besmer, M. D., Blumensaat, F., Bouffard, D., Disch, A., Hammes, F., Hess, A., <u><strong>Lürig, M.D.</strong></u>, Matthews, B., Minaudo, C., Morgenroth, E., Tran-Khac, V., and Villez, K. (2021). The value of human data annotation for machine learning based anomaly detection in environmental systems. Water Research, 117695. [DOI](https://doi.org/10.1016/j.watres.2021.117695){:target="_blank"}
+		
+Moosmann, M., Cuenca-Cambronero, M., De Lisle, S., Greenway, R., Hudson, C. M., <u><strong>Lürig, M.D.</strong></u>, and Matthews, B. (2021). On the evolution of trophic position. Ecology Letters. <i>In press</i>. [DOI](https://doi.org/10.1111/ele.13888]{:target="_blank"}
 
 <u><strong>Lürig, M.D.</strong></u>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., and Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology 102(7), e03371. [DOI](https://doi.org/10.1002/ecy.3371){:target="_blank"}
 
@@ -69,7 +78,7 @@ sidebar:
 
 <u><strong>Lürig, M.D.</strong></u>, Hao, W., Matthews, B., and Villez, K. (2020). Active learning for anomaly detection in environmental data. Environmental Modelling \& Software 134, 104869. [DOI](https://doi.org/10.1016/j.envsoft.2020.104869){:target="_blank"}
 
-Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado, R., \textbf{Lürig, M. D.} (2020). Fifty years of capacity building in the search for new marine natural products. Proceedings of the National Academy of Sciences 17(39), 24165-24172.[DOI](https://doi.org/10.1073/pnas.2007610117){:target="_blank"}
+Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado, R., <u><strong>Lürig, M.D.</strong></u>. Fifty years of capacity building in the search for new marine natural products. Proceedings of the National Academy of Sciences 17(39), 24165-24172.[DOI](https://doi.org/10.1073/pnas.2007610117){:target="_blank"}
 
 ## 2019
 
@@ -84,15 +93,10 @@ Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado
 <u><strong>Lürig, M.D.</strong></u>, Kunzmann A. 2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of \textit{Stylophora pistillata}. Journal of Sea Research 99, 26–33. [DOI](https://doi.org/10.1016/j.seares.2015.01.005){:target="_blank"}
 
 
-
-
-
-
-
-
-
-
 # Presentations
+
+## 2021 
+<u><strong>invited talk</strong></u> - Deep learning powered computer vision as a promising aavenue for phenomics. East of Scotland Bioscience Doctoral Training Series, Aberdeen, Scotland.
 
 ## 2019
 
