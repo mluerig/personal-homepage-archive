@@ -52,6 +52,8 @@ sidebar:
 
 ---
 
+You can download a copy of my curriculum vitae **[>>here<<](/assets/mluerig_CV.pdf){:target="_blank"}**
+
 
 # Publications
 
