@@ -60,7 +60,7 @@ sidebar:
 
 Best, R.J. and <u><strong>Lürig, M.D.</strong></u>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. <i>In press</i>. Oxford University Press.
 
-Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod \textit{Asellus aquaticus} as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>.
+Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod <i>Asellus aquaticus</i> as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>.
 		
 Russo, S., Besmer, M. D., Blumensaat, F., Bouffard, D., Disch, A., Hammes, F., Hess, A., <u><strong>Lürig, M.D.</strong></u>, Matthews, B., Minaudo, C., Morgenroth, E., Tran-Khac, V., and Villez, K. (2021). The value of human data annotation for machine learning based anomaly detection in environmental systems. Water Research, 117695. [DOI](https://doi.org/10.1016/j.watres.2021.117695){:target="_blank"}
 		
@@ -90,7 +90,7 @@ Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado
 
 ## 2015
 
-<u><strong>Lürig, M.D.</strong></u>, Kunzmann A. 2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of \textit{Stylophora pistillata}. Journal of Sea Research 99, 26–33. [DOI](https://doi.org/10.1016/j.seares.2015.01.005){:target="_blank"}
+<u><strong>Lürig, M.D.</strong></u>, Kunzmann A. 2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of <i>Stylophora pistillata</i>. Journal of Sea Research 99, 26–33. [DOI](https://doi.org/10.1016/j.seares.2015.01.005){:target="_blank"}
 
 
 # Presentations
