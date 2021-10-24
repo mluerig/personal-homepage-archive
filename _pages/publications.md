@@ -60,7 +60,7 @@ You can download a copy of my curriculum vitae **[>>here<<](/assets/mluerig_CV.p
 ## 2021
 <u><strong>Lürig, M.D.</strong></u> (2021). phenopype: a phenotyping pipeline for Python. Methods in Ecology and Evolution. <i>In press</i>.
 
-Best, R.J. and <u><strong>Lürig, M.D.</strong></u>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. <i>In press</i>. Oxford University Press.
+Best, R.J. and <u><strong>Lürig, M.D.</strong></u>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. Oxford University Press. <i>In press</i>.
 
 Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod <i>Asellus aquaticus</i> as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>.
 		
