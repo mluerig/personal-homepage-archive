@@ -1,8 +1,8 @@
 ---
+title: Hosting static websites with github pages and jekyll
 layout: posts
-title:  "Host static websites on GitHub using jekyll"
-date:   2021-11-15 
-categories: tech, how-to
+date: 2021-11-15 
+tag-name: tech tutorials
 ---
 
 *This is a series of posts where I document some of the techy things I do for my work as a scientist. My motivation for these posts is to both document the procedures for myself and help share them among the science community. My goal is to focus on writing more posts rather than making each post all-encompassing, but if I am missing relevant information please do let me know and I will add it.*

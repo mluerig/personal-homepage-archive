@@ -138,8 +138,11 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+permalink: /posts/:slug
 
+## defaults
 defaults:
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -147,3 +150,11 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true

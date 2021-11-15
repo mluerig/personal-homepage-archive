@@ -12,7 +12,7 @@ main:
     - title: "Publications"
       url: /publications/
     - title: "Posts"
-      url: /posts_archive/
+      url: /posts/
           
 pages:
   - title: "Research"
