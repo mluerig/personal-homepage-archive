@@ -1,6 +1,6 @@
 ---
-layout: posts
 title: "New website!"
+layout: posts
 date: 2020-11-03
 tag-name: general
 ---

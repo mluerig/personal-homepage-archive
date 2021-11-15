@@ -3,8 +3,10 @@ title: Hosting static websites with github pages and jekyll
 layout: posts
 date: 2021-11-15 
 tag-name: tech tutorials
-description: How to host and easily maintain personal or lab-websites using github pages and jekyll. 
-title_image: /assets/images/posts/demo-hp-2.png
+description: How to host and easily maintain personal or lab-websites using github pages and jekyll.
+og_image: /assets/images/posts/demo-hp-2.png
+toc: true
+toc_sticky: true
 ---
 
 *This is a series of posts where I document some of the techy things I do for my work as a scientist. My motivation for these posts is to both document the procedures for myself and help share them among the science community. My goal is to focus on writing more posts rather than making each post all-encompassing, but if I am missing relevant information please do let me know and I will add it.*
@@ -17,7 +19,7 @@ For all the presented methods you will need a github account.
 
 For additional guides (e.g. how to connect this do your own custom domain) and for links to free themes, see the end of this post.
 
-## The simple way: adding content on github.com
+# The simple way: adding content on github.com
 
 This is more of a proof of principle, illustrating where the website content is hosted and how markdown syntax translates into a website. For building a personal or lab-website from scratch, you may want to use the one of the other methods introduced below.
 
@@ -33,7 +35,7 @@ This is more of a proof of principle, illustrating where the website content is 
 
 3. Add some more meaningful text to replace the default readme - I added this:
 
-        ## Demo-homepage of Moritz Lürig
+        # Demo-homepage of Moritz Lürig
 
 		This is a demonstration of how simple, aesthetic and informative websites can be generated using github pages and jekyll. 
 
@@ -44,7 +46,7 @@ This is more of a proof of principle, illustrating where the website content is 
 4. Done - now you can see your page under https://[USERNAME].github.io/[REPONAME] - mine is at [https://mluerig.github.io/my-demo-homepage-1/](https://mluerig.github.io/my-demo-homepage-1/)
 
 
-## The better way: fork-clone-edit-push
+# The better way: fork-clone-edit-push
 
 This might be the most convient method for most people. Here, an existing jekyll theme is forked and cloned to your local computer, where you can edit it with your favorite text editor, and then push the changes to the forked repo. 
 
@@ -81,7 +83,7 @@ This might be the most convient method for most people. Here, an existing jekyll
 	</div>
 	</div>
 
-## The involved way: installing jekyll on your local machine
+# The involved way: installing jekyll on your local machine
 
 This is assuming that you have already forked or made your own gh-pages repo to work with. 
 
@@ -112,7 +114,7 @@ This is assuming that you have already forked or made your own gh-pages repo to 
 5. Edit some markdown files in the repo and save them. If you refresh the page in the browser, you should see the updates immediately on your local machine. This way you can experiment with more involved changes and edits before exposing them to the public. However, note that for any changes to `_config.yaml`, you need to termiante the current serving session and restart it with `bundle exec jekyll serve`.
 
 
-## Additional resources:
+# Additional resources:
 
 - [Using a custom domain instead of .github.io](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)
 - [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)

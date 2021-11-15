@@ -11,7 +11,8 @@ subtitle: "Postdoctoral scholar"
 name: "Moritz D. Lürig"
 description: "Moritz D. Lürig"
 words_per_minute: 200
-twitter_username: "mluerig"
+twitter:
+  username: "mluerig"
 github: [metadata]
 
 # Build settings
@@ -155,5 +156,10 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: narrow
       show_date: true
       read_time: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: pages 
