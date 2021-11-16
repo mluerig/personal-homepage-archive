@@ -5,6 +5,7 @@ gem 'jekyll-titles-from-headings'
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem "webrick", "~> 1.7"
+gem 'jekyll-seo-tag'
 
 source 'https://rubygems.org'
 

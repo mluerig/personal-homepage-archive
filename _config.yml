@@ -11,9 +11,10 @@ subtitle: "Postdoctoral scholar"
 name: "Moritz D. Lürig"
 description: "Moritz D. Lürig"
 words_per_minute: 200
-twitter_username: "mluerig"
 github: [metadata]
-
+twitter:
+  username: mluerig
+  
 # Build settings
 plugins:
   - jekyll-paginate
@@ -23,7 +24,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
   - jekyll-remote-theme
-
+  - jekyll-seo-tag
+  
 titles_from_headings:
   enabled:     false
   strip_title: true
