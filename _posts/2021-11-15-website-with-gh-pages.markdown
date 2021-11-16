@@ -2,8 +2,7 @@
 title: Hosting static websites with github pages and jekyll
 date: 2021-11-15 
 tag-name: tech tutorials
-description: How to host and easily maintain personal or lab-websites using github pages and jekyll.
-og_image: /assets/images/posts/demo-hp-2.png
+excerpt: How to host and easily maintain personal or lab-websites using github pages and jekyll.
 ---
 
 *This is a series of posts where I document some of the techy things I do for my work as a scientist. My motivation for these posts is to both document the procedures for myself and help share them among the science community. My goal is to focus on writing more posts rather than making each post all-encompassing, but if I am missing relevant information please do let me know and I will add it.*
@@ -40,7 +39,13 @@ This is more of a proof of principle, illustrating where the website content is 
 
 		Thanks for visiting :-) 
 		
-4. Done - now you can see your page under https://[USERNAME].github.io/[REPONAME] - mine is at [https://mluerig.github.io/my-demo-homepage-1/](https://mluerig.github.io/my-demo-homepage-1/)
+4. Done - now you can see your page under 
+
+    https://[USERNAME].github.io/[REPONAME] 
+		
+    Mine is at:
+
+    [https://mluerig.github.io/my-demo-homepage-1/](https://mluerig.github.io/my-demo-homepage-1/)
 
 
 # The better way: fork-clone-edit-push
