@@ -1,12 +1,9 @@
 ---
 title: Hosting static websites with github pages and jekyll
-layout: posts
 date: 2021-11-15 
 tag-name: tech tutorials
 description: How to host and easily maintain personal or lab-websites using github pages and jekyll.
 og_image: /assets/images/posts/demo-hp-2.png
-toc: true
-toc_sticky: true
 ---
 
 *This is a series of posts where I document some of the techy things I do for my work as a scientist. My motivation for these posts is to both document the procedures for myself and help share them among the science community. My goal is to focus on writing more posts rather than making each post all-encompassing, but if I am missing relevant information please do let me know and I will add it.*
@@ -54,19 +51,23 @@ This might be the most convient method for most people. Here, an existing jekyll
 
 2. Log into your github account.
 
-3. Go to the minimal jekyll theme repo: [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
+3. Go to the minimal jekyll theme repo: 
+
+    [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 4. Fork the repo, and rename it if you'd like - I name this one `my-demo-homepage-2`.
 
-5. Clone the repo to your local computer: `git clone https://github.com/mluerig/my-demo-homepage-2`
+5. Clone the repo to your local computer:
 
+		git clone https://github.com/mluerig/my-demo-homepage-2
+		
 6. Open the repo and edit `index.md` - I'll add the same text as above. In addition, I will add a flashly logo. The logo is not directly linked through `index.md`, but through `config.yaml`, which can be used to control many other settings and content. I am changing the content of config.yaml to:
 
 		title: Look - I made website!
 		logo: /assets/img/logo.gif
 		theme: jekyll-theme-minimal
 
-	The new logo needs to be added to `/assets/img/` (I got the image [here](https://knowyourmeme.com/memes/brent-rambo)). 
+	The new [logo](https://knowyourmeme.com/memes/brent-rambo) needs to be added to `/assets/img/`. 
 	
 7. Add changes to git, commit and push:
 
@@ -75,7 +76,9 @@ This might be the most convient method for most people. Here, an existing jekyll
 		git push
 
 
-8. Open the repo on github,  go to Settings > Pages > Source and choose the master branch, which will publish the repo under: [https://mluerig.github.io/my-demo-homepage-2/](https://mluerig.github.io/my-demo-homepage-2/)
+8. Open the repo on github,  go to Settings > Pages > Source and choose the master branch, which will publish the repo under: 
+	
+	[https://mluerig.github.io/my-demo-homepage-2/](https://mluerig.github.io/my-demo-homepage-2/)
 
 	<div class="res-center">
 	<div class="res-container">
@@ -114,12 +117,14 @@ This is assuming that you have already forked or made your own gh-pages repo to 
 5. Edit some markdown files in the repo and save them. If you refresh the page in the browser, you should see the updates immediately on your local machine. This way you can experiment with more involved changes and edits before exposing them to the public. However, note that for any changes to `_config.yaml`, you need to termiante the current serving session and restart it with `bundle exec jekyll serve`.
 
 
-# Additional resources:
+# Additional resources
 
 - [Using a custom domain instead of .github.io](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)
 - [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
-- Free Themes:
-	- [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
-	- [https://jekyllthemes.io/free](https://jekyllthemes.io/free)
-	- [https://jekyll-themes.com/free/](https://jekyll-themes.com/free/)
-	- [https://jamstackthemes.dev/ssg/jekyll/](https://jamstackthemes.dev/ssg/jekyll/)
+
+
+# Free jekyll themes
+- [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
+- [https://jekyllthemes.io/free](https://jekyllthemes.io/free)
+- [https://jekyll-themes.com/free/](https://jekyll-themes.com/free/)
+- [https://jamstackthemes.dev/ssg/jekyll/](https://jamstackthemes.dev/ssg/jekyll/)

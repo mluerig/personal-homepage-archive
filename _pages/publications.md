@@ -4,7 +4,7 @@ classes: narrow
 permalink: /publications/ 
 toc: true
 toc_sticky: true
-toc_label: "Quicklinks"
+toc_label: "Content"
 sidebar:
   nav: pages 
 ---
