@@ -285,6 +285,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-remote-theme
+  jekyll-seo-tag
   jekyll-titles-from-headings
   minimal-mistakes-jekyll
   wdm (>= 0.1.0)
