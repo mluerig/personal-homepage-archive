@@ -1,5 +1,6 @@
 # Code for personal homepage
 
+EDIT: I discontinued using "minimal mistakes" because I felt it to be a bit too convoluted.
 
 This is the source code for my personal website built with jekyll and the minimal mistakes theme https://luerig.net
 
